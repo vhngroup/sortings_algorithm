@@ -3,7 +3,7 @@
 
 ![demo](https://github.com/vhngroup/sortings_algorithm/blob/main/bubble_sorting.gif)
 
-* Este algoritmo se considera poco eficiente, ya que implica revisar cada elemento de la lista e intercambiandolo con el siguiente mas proximo a su valor.  
+* Este algoritmo se considera poco eficiente, ya que implica revisar cada elemento de la lista e ir intercambiandolo con el siguiente mas proximo a su valor.  
 * Se ha utilizado la libreria *flet* para agregarle interfaz grafica y poder ver como se comporta el algoritmo.
 * Se utiliza la libreria random para generar 10 numeros aleatorios y que el algorirmos los clasifique.
 * Ejecutar el archivo "bubble_sorting_algorithm.py" y ver el resultado.
