@@ -1,7 +1,7 @@
 # Algoritmos de clasificación u ordenamiento
 ## Bubble sorting
 
-!(https://github.com/vhngroup/sortings_algorithm/blob/main/bubble_sorting.gif)
+![demo](https://github.com/vhngroup/sortings_algorithm/blob/main/bubble_sorting.gif)
 
 * Este algoritmo se considera poco eficiente, ya que implica revisar cada elemento de la lista e intercambiandolo con el siguiente mas proximo a su valor.  
 * Se ha utilizado la libreria *flet* para agregarle interfaz grafica y poder ver como se comporta el algoritmo.
