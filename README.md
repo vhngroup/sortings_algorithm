@@ -19,7 +19,7 @@ Este Ejercicio fue realizado en base al canal: https://www.youtube.com/@pildoras
 ## Bubble sorting
 ### Ruta mas corta entre dos estaciones de metro dadas de la ciudad de Mexico.
 ![demo](https://github.com/vhngroup/sortings_algorithm/blob/main/static/Dijkstra.png)
-* Este algoritmo se usa para la identificación de la ruta mas corta en un grafo, en est caso de la ruta a tomar entre dos estaciones de la ciudad de mexico.
+* Este algoritmo se usa para la identificación de la ruta mas corta en un grafo, en este caso de la ruta a tomar entre dos estaciones de la ciudad de mexico.
 * Se ha utilizado la bibiloteca NetworkX para el analisis y modelado de  grafos.
 * Este proyecto fue realizado en jupyter notebook con lenguaje Python.
 
