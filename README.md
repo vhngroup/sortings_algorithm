@@ -1,7 +1,7 @@
 # Algoritmos de clasificación u ordenamiento
 ## Bubble sorting
 
-![demo](https://github.com/vhngroup/sortings_algorithm/blob/main/bubble_sorting.gif)
+![demo](https://github.com/vhngroup/sortings_algorithm/blob/main/static/bubble_sorting.gif)
 
 * Este algoritmo se considera poco eficiente, ya que implica revisar cada elemento de la lista e ir intercambiandolo con el siguiente mas proximo a su valor.  
 * Se ha utilizado la libreria *flet* para agregarle interfaz grafica y poder ver como se comporta el algoritmo.
@@ -15,3 +15,14 @@
 
 ## Creditos
 Este Ejercicio fue realizado en base al canal: https://www.youtube.com/@pildorasdeprogramacion
+
+## Bubble sorting
+### Ruta mas corta entre dos estaciones de metro dadas de la ciudad de Mexico.
+![demo](https://github.com/vhngroup/sortings_algorithm/blob/main/static/Dijkstra.png)
+* Este algoritmo se usa para la identificación de la ruta mas corta en un grafo, en est caso de la ruta a tomar entre dos estaciones de la ciudad de mexico.
+* Se ha utilizado la bibiloteca NetworkX para el analisis y modelado de  grafos.
+* Este proyecto fue realizado en jupyter notebook con lenguaje Python.
+
+## Creditos
+* Este proyecto toma como base el de Victor Sanz, del canal https://www.youtube.com/@victorsanz2720, agradecimientos a su autor.
+* El origen de datos tambien fue tomado del autor
