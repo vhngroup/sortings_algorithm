@@ -23,7 +23,7 @@ Este Ejercicio fue realizado en base al canal: https://www.youtube.com/@pildoras
 * Se ha utilizado la bibiloteca NetworkX para el analisis y modelado de  grafos.
 * Este proyecto fue realizado en jupyter notebook con lenguaje Python.
 
-#### Se adicion un proyecto adicional con el mismo algorirmo DijStra
+#### Se adicion un proyecto adicional con el mismo algorirmo DijkStra
 ![demo](https://github.com/vhngroup/sortings_algorithm/blob/main/static/Dijkstrav2.png)
 
 ## Creditos
